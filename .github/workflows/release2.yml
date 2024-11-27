@@ -50,4 +50,4 @@ jobs:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./MyExecutable  
           asset_name: MyExecutable       
-          asset_content_type: application/octet-stream  
+          asset_content_type: application/octet-stream   
